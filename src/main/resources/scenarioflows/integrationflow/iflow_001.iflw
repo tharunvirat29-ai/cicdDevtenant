@@ -219,7 +219,7 @@
                 </ifl:property>
                 <ifl:property>
                     <key>wrapContent</key>
-                    <value>added content modifier - hi from content modifier</value>
+                    <value>added content modifier - hi from content modifier--version 1.0.3 -- changed</value>
                 </ifl:property>
                 <ifl:property>
                     <key>componentVersion</key>
